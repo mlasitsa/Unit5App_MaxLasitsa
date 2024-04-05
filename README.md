@@ -1,37 +1,24 @@
-# Android Project 5 - *BitFit Part 1*
+# Android Project 6 - *Project 6: BitFit Part 2*
 
 Submitted by: **Max Lasitsa**
 
-**BitFit Part 1** is a health metrics app that allows users to track food and calories
+**Project 6: BitFit Part 2** is a health metrics app that allows users to track how many calories you have consumed  
 
-Time spent: **8** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): food and calories
-- [x] **There is a "create entry" UI that prompts users to make their daily entry**
-- [x] **New entries are saved in a database and then updated in the RecyclerView**
-- [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
- 
-The following **optional** features are implemented:
-
-- [ ] **Create a UI for tracking averages and trends in metrics**
-- [x] **Improve and customize the user interface through styling and coloring**
-- [ ] **Implement orientation responsivity**
-- [ ] **Add a daily photo feature**
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] **Use at least 2 Fragments**
+- [x] **Create a new dashboard fragment where users can see a summary of their entered data**
+- [x] **Use one of the Navigation UI Views (BottomNavigation, Drawer Layout, Top Bar) to move between the fragments**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/SN7M94p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/aH77EyC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -39,7 +26,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didnt encounter that many challenges, mostly it was just troubleshooting related to dependecies for some reason. 
 
 ## License
 
